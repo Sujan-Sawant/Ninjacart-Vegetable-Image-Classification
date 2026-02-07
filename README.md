@@ -5,5 +5,5 @@
 - Worked with web-scraped image datasets and implemented data preprocessing and augmentation techniques to improve generalization.
 - Trained and evaluated classification models using confusion matrices and performance metrics to ensure accurate labeling.
 - Demonstrated applicability of machine learning models in real-world supply chain automation and quality control scenarios.
-- Tech Stack: Python, Scikit-learn,Computer Vison
+- ***Tech Stack: Python, Scikit-learn,Computer Vison***
 
