@@ -1,5 +1,5 @@
 # Ninjacart-Vegetable-Image-Classification
-Ninjacart Vegetable Image Classification using Computer Vision &amp; Deep Learning
+***Ninjacart Vegetable Image Classification using Computer Vision &amp; Deep Learning***
 
 - Developed a multi-class image classification system to identify vegetables (onion, potato, tomato) and filter non-vegetable market images as noise.
 - Worked with web-scraped image datasets and implemented data preprocessing and augmentation techniques to improve generalization.
